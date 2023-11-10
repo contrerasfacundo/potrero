@@ -84,11 +84,22 @@ button:hover {
 
 
 .div {display: flex;
+    
 }
 
 .ice {display: flex;
-    width: 50 px;
+    width: 500px;
+    
    }
 
+   p {background-color: aquamarine;}
+   
+
+
+
+
+
+
+  
 
 
