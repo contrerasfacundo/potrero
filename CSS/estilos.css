@@ -82,9 +82,13 @@ button:hover {
     
 }
 
-.div {display: flex;}
+
+.div {display: flex;
+}
 
 .ice {display: flex;
     width: 50 px;
    }
+
+
 
